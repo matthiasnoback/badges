@@ -16,3 +16,4 @@ Here they come:
 
 [![Latest Unstable Version](https://poser.pugx.org/matthiasnoback/badges/v/unstable.png)](https://packagist.org/packages/matthiasnoback/badges)
 
+[![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/matthiasnoback/badges/badges/quality-score.png?s=4023c984fc1163a44f4220cd7d57406643ced9f2)](https://scrutinizer-ci.com/g/matthiasnoback/badges/)
