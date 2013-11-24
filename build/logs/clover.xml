@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1385318690">
+  <project timestamp="1385318690">
+    <package name="Matthias">
+      <file name="/home/matthias/Projects/badges/Matthias/Habits.php">
+        <class name="Habits" namespace="Matthias">
+          <metrics methods="2" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="2" coveredstatements="1" elements="4" coveredelements="2"/>
+        </class>
+        <line num="7" type="method" name="whatIsYourBestHabit" crap="1" count="1"/>
+        <line num="9" type="stmt" count="1"/>
+        <line num="12" type="method" name="whatIsYourWorstHabit" crap="2" count="0"/>
+        <line num="14" type="stmt" count="0"/>
+        <line num="17" type="stmt" count="1"/>
+        <metrics loc="16" ncloc="16" classes="1" methods="2" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="2" coveredstatements="1" elements="4" coveredelements="2"/>
+      </file>
+    </package>
+    <metrics files="1" loc="16" ncloc="16" classes="1" methods="2" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="2" coveredstatements="1" elements="4" coveredelements="2"/>
+  </project>
+</coverage>
