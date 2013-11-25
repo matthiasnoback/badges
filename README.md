@@ -54,6 +54,10 @@ The badge from [Bitdeli](https://bitdeli.com/) gives an indication of the reposi
 ## SensioLabs Insight
 
 The badge from [SensioLabs Insight](https://insight.sensiolabs.com/) provides another indication of the quality of a
-project. It checks for a lot of issues and enforces/encourages best practices.
+project. It checks for a lot of issues and enforces/encourages best practices. The following styles are available:
 
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/f7688b3a-7fb7-4618-9384-6e2d348a76ba/big.png)](https://insight.sensiolabs.com/projects/f7688b3a-7fb7-4618-9384-6e2d348a76ba)
+
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/f7688b3a-7fb7-4618-9384-6e2d348a76ba/small.png)](https://insight.sensiolabs.com/projects/f7688b3a-7fb7-4618-9384-6e2d348a76ba)
+
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/f7688b3a-7fb7-4618-9384-6e2d348a76ba/mini.png)](https://insight.sensiolabs.com/projects/f7688b3a-7fb7-4618-9384-6e2d348a76ba)
