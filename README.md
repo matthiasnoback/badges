@@ -44,3 +44,9 @@ The badge from [Coveralls](https://coveralls.io/) shows the percentage of code i
 tests.
 
 [![Coverage Status](https://coveralls.io/repos/matthiasnoback/badges/badge.png?branch=master)](https://coveralls.io/r/matthiasnoback/badges?branch=master)
+
+## Bitdeli
+
+The badge from [Bitdeli](https://bitdeli.com/) gives an indication of the repository's popularity.
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/matthiasnoback/badges/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
