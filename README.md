@@ -50,3 +50,10 @@ tests.
 The badge from [Bitdeli](https://bitdeli.com/) gives an indication of the repository's popularity.
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/matthiasnoback/badges/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
+## SensioLabs Insight
+
+The badge from [SensioLabs Insight](https://insight.sensiolabs.com/) provides another indication of the quality of a
+project. It checks for a lot of issues and enforces/encourages best practices.
+
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/f7688b3a-7fb7-4618-9384-6e2d348a76ba/big.png)](https://insight.sensiolabs.com/projects/f7688b3a-7fb7-4618-9384-6e2d348a76ba)
