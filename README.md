@@ -2,20 +2,23 @@
 
 By Matthias Noback
 
-A package to test different quality-related badges that are available for packages.
+A package to test different quality-related badges that are available for
+packages.
 
 Here they come:
 
 ## Travis CI
 
-The badge from [Travis CI](https://travis-ci.org/) shows the status of the last build of the project.
+The badge from [Travis CI](https://travis-ci.org/) shows the status of the [last
+build of the project](http://about.travis-ci.org/docs/user/status-images/).
 
 [![Build Status](https://travis-ci.org/matthiasnoback/badges.png?branch=master)](https://travis-ci.org/matthiasnoback/badges)
 
 ## Badge Poser
 
-Badges from [Badge Poser](https://poser.pugx.org/) provide information about the Composer package associated with this
-repository, e.g. the latest versions (stable and unstable) and download statistics (total, monthly and daily).
+Badges from [Badge Poser](https://poser.pugx.org/) provide information about the
+Composer package associated with this repository, e.g. the latest versions
+(stable and unstable) and download statistics (total, monthly and daily).
 
 [![Latest Stable Version](https://poser.pugx.org/matthiasnoback/badges/v/stable.png)](https://packagist.org/packages/matthiasnoback/badges)
 
@@ -40,21 +43,23 @@ calculated using PHPUnit.
 
 ## Coveralls
 
-The badge from [Coveralls](https://coveralls.io/) shows the percentage of code in this package that is covered by unit
-tests.
+The badge from [Coveralls](https://coveralls.io/) shows the percentage of code
+in this package that is covered by unit tests.
 
 [![Coverage Status](https://coveralls.io/repos/matthiasnoback/badges/badge.png?branch=master)](https://coveralls.io/r/matthiasnoback/badges?branch=master)
 
 ## Bitdeli
 
-The badge from [Bitdeli](https://bitdeli.com/) gives an indication of the repository's popularity.
+The badge from [Bitdeli](https://bitdeli.com/) gives an indication of the
+repository's popularity.
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/matthiasnoback/badges/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 ## SensioLabs Insight
 
-The badge from [SensioLabs Insight](https://insight.sensiolabs.com/) provides another indication of the quality of a
-project. It checks for a lot of issues and enforces/encourages best practices. The following styles are available:
+The badge from [SensioLabs Insight](https://insight.sensiolabs.com/) provides
+another indication of the quality of a project. It checks for a lot of issues
+and enforces/encourages best practices. The following styles are available:
 
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/f7688b3a-7fb7-4618-9384-6e2d348a76ba/big.png)](https://insight.sensiolabs.com/projects/f7688b3a-7fb7-4618-9384-6e2d348a76ba)
 
@@ -64,8 +69,8 @@ project. It checks for a lot of issues and enforces/encourages best practices. T
 
 ## VersionEye
 
-The badge from [VersionEye]([![Dependency
-Status](https://www.versioneye.com/php/matthiasnoback:badges/dev-master/badge.png)](https://www.versioneye.com/php/matthiasnoback:badges/dev-master))
-shows the number of dependencies of your project, based on its ``composer.json`` file:
+The badge from [VersionEye](https://www.versioneye.com/) shows whether or not
+this package has any out-dated dependencies, based on its ``composer.json``
+file.
 
 [![Dependency Status](https://www.versioneye.com/php/matthiasnoback:badges/dev-master/badge.png)](https://www.versioneye.com/php/matthiasnoback:badges/dev-master)
