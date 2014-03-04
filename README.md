@@ -74,3 +74,9 @@ this package has any out-dated dependencies, based on its ``composer.json``
 file.
 
 [![Dependency Status](https://www.versioneye.com/php/matthiasnoback:badges/dev-master/badge.png)](https://www.versioneye.com/php/matthiasnoback:badges/dev-master)
+
+## HHVM Support
+
+This website [hhvm.h4cc.de](http://hhvm.h4cc.de) simply checks your Travis-CI configuration if the tests run with HHVM.
+
+[![matthiasnoback/badges](http://hhvm.h4cc.de/badge/matthiasnoback/badges.png)](http://hhvm.h4cc.de/package/matthiasnoback/badges)
