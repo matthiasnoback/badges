@@ -30,6 +30,16 @@ Composer package associated with this repository, e.g. the latest versions
 
 [![Daily Downloads](https://poser.pugx.org/matthiasnoback/badges/d/daily.png)](https://packagist.org/packages/matthiasnoback/badges)
 
+
+## Open Source Badges
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)  
+
+## Licence Badges
+[![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![Open Source Love](https://badges.frapsoft.com/os/gpl/gpl.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
 ## Scrutinizer
 
 Badges from [Scrutinizer](https://scrutinizer-ci.com/) provide information about the quality of code in this repository.
