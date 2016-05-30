@@ -40,6 +40,9 @@ Composer package associated with this repository, e.g. the latest versions
 [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 [![Open Source Love](https://badges.frapsoft.com/os/gpl/gpl.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
+## TypeScript Badges
+[![TypeScript](https://badges.frapsoft.com/typescript/awesome/typescript.png?v=100)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.png?v=100)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.png?v=100)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://badges.frapsoft.com/typescript/version/typescript-v19.svg)](https://github.com/ellerbrock/typescript-badges/) 
+
 ## Scrutinizer
 
 Badges from [Scrutinizer](https://scrutinizer-ci.com/) provide information about the quality of code in this repository.
