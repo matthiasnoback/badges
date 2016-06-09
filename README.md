@@ -7,6 +7,13 @@ packages.
 
 Here they come:
 
+## AppVeyor CI
+
+The badge from [AppVeyor CI](https://www.appveyor.com/) shows the status of the [last
+build of the project](https://www.appveyor.com/docs/status-badges).
+
+[![Windows Build status](https://ci.appveyor.com/api/projects/status/github/elv1s42/screenshottaker?branch=master&svg=true)](https://ci.appveyor.com/project/elv1s42/screenshottaker/branch/master)
+
 ## Travis CI
 
 The badge from [Travis CI](https://travis-ci.org/) shows the status of the [last
